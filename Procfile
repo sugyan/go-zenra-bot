@@ -1,1 +1,1 @@
-bot: go-genki-bot
+bot: go-zenra-bot
