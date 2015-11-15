@@ -1,0 +1,39 @@
+{
+	"ImportPath": "github.com/sugyan/go-zenra-bot",
+	"GoVersion": "go1.5.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/garyburd/go-oauth/oauth",
+			"Rev": "3131beb69b81ff119923bdefbf029318f1f53794"
+		},
+		{
+			"ImportPath": "github.com/ikawaha/kagome/internal/da",
+			"Comment": "v1.1.1",
+			"Rev": "dba35c2fbaa499cd9d7b0e6030a20271fc0eb952"
+		},
+		{
+			"ImportPath": "github.com/ikawaha/kagome/internal/dic",
+			"Comment": "v1.1.1",
+			"Rev": "dba35c2fbaa499cd9d7b0e6030a20271fc0eb952"
+		},
+		{
+			"ImportPath": "github.com/ikawaha/kagome/internal/lattice",
+			"Comment": "v1.1.1",
+			"Rev": "dba35c2fbaa499cd9d7b0e6030a20271fc0eb952"
+		},
+		{
+			"ImportPath": "github.com/ikawaha/kagome/tokenizer",
+			"Comment": "v1.1.1",
+			"Rev": "dba35c2fbaa499cd9d7b0e6030a20271fc0eb952"
+		},
+		{
+			"ImportPath": "github.com/sugyan/go-zenra",
+			"Comment": "v0.0.1-5-g78ac0a2",
+			"Rev": "78ac0a2a71252d6dd64253a40fb158defecd6657"
+		},
+		{
+			"ImportPath": "github.com/sugyan/mentionbot",
+			"Rev": "bb2054fac33707cb47749e32b0f320443e63e44f"
+		}
+	]
+}
