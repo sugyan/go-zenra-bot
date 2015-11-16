@@ -28,8 +28,8 @@
 		},
 		{
 			"ImportPath": "github.com/sugyan/go-zenra",
-			"Comment": "v0.0.1-5-g78ac0a2",
-			"Rev": "78ac0a2a71252d6dd64253a40fb158defecd6657"
+			"Comment": "v0.0.1-7-g7c719d8",
+			"Rev": "7c719d84977992150ce91aa184338f8b66bd950c"
 		},
 		{
 			"ImportPath": "github.com/sugyan/mentionbot",
