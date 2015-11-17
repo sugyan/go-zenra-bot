@@ -77,7 +77,7 @@ func (z *Zenra) Mention(tweet *mentionbot.Tweet) (mention *string) {
 	}
 
 	// フォロワーが多いので適当に間引く
-	if rand.Intn(100) < 60 {
+	if rand.Intn(100) < 80 {
 		return
 	}
 
